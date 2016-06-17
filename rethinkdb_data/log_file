@@ -293,3 +293,8 @@
 2016-06-17T17:16:47.598331000 4.486509s info: Table d8e53e59-b85c-40d7-916c-288397035c8e: This server is Raft leader for term 3. Latest log index is 7.
 2016-06-17T17:16:47.598400000 4.486579s info: Table 0b743401-a2b5-49f9-ab08-3cb10dc42ef2: This server is Raft leader for term 3. Latest log index is 7.
 2016-06-17T17:16:47.598472000 4.486650s info: Table a3360293-b7b3-432f-ab86-17f4eee98451: This server is Raft leader for term 3. Latest log index is 4.
+2016-06-17T18:09:37.146859000 3173.969136s notice: Server got SIGINT from pid 448, uid 501; shutting down...
+2016-06-17T18:09:37.147061000 3173.969337s notice: Shutting down client connections...
+2016-06-17T18:09:37.150310000 3173.972587s notice: All client connections closed.
+2016-06-17T18:09:37.150331000 3173.972608s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2016-06-17T18:09:37.178676000 3174.000953s notice: Storage engine shut down.
